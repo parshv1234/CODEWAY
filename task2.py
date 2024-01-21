@@ -10,43 +10,46 @@ def main():
     print("-------------------")
 
     while True:
-        user_selection = input("Do you wish to use calculator ?\nPress 'Y/y' to Continue, or 'N/n' to Exit: ")
-        
+        user_selection = input("Do you wish to use calculator?\nPress 'Y/y' to Continue, or 'N/n' to Exit: ")
+
         if user_selection.lower() == 'n':
             print("Thank You! See you next time.")
             break
         elif user_selection.lower() == 'y':
+            operators = {
+                '+': lambda x, y: x + y,
+                '-': lambda x, y: x - y,
+                '*': lambda x, y: x * y,
+                '/': lambda x, y: x / y if y != 0 else None,
+                '//': lambda x, y: x // y if y != 0 else None,
+                'exp': lambda x, y: x ** y,
+                'mod': lambda x, y: x % y if y != 0 else None
+            }
+
             operation = input('''\n********************************************
- Please select the operators:
- + for addition (a)
- - for subtraction (s)
- * for multiplication (m)
- / for division (d)
- // for integer division (id)
+Please select the operators:
++ for addition (a)
+- for subtraction (s)
+* for multiplication (m)
+/ for division (d)
+// for integer division (id)
+exp for exponentiation
+mod for modulus
 ********************************************
-Enter the operator you want to use:''')
-                              
-            n1=int(input('Enter your first number:'))       
-            n2=int(input('Enter your second number:'))       
-             
-            if operation =='a' or operation =='+':
-                print(n1,'+',n2,"=",n1+n2)
-                
-            elif operation =='-' or operation =='s':
-                print(n1,'-',n2,"=",n1-n2)
-               
-            elif operation =='*' or operation =='m':
-                print(n1,'*',n2,"=",n1*n2)
-               
-            elif operation =='/' or operation =='d':
-                print(n1,'/',n2,"=",n1/n2)
-               
-            elif operation =='//' or operation =='id':
-                print(n1,'//',n2,"=",n1//n2)
-               
+Enter the operator you want to use: ''')
+
+            if operation in operators:
+                n1 = float(input('Enter your first number: '))
+                n2 = float(input('Enter your second number: '))
+
+                result = operators[operation](n1, n2)
+
+                if result is not None:
+                    print(f"{n1} {operation} {n2} = {result}")
+                else:
+                    print("Error: Cannot divide by zero.")
             else:
-                print('You have not typed a valid operator, please run the program again.')
-                       
+                print('You have not entered a valid operator. Please run the program again.')
             print("")
         else:
             print("Invalid Input! Try Again.")
@@ -54,5 +57,6 @@ Enter the operator you want to use:''')
 
 if __name__ == "__main__":
     main()
+
 
 
