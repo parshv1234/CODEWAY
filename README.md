@@ -50,6 +50,6 @@ I am grateful for the guidance and support provided by the Codeway Solutions tea
 
 I extend my sincere appreciation to Codeway Solutions for providing me with this enriching internship experience. I look forward to continued growth and the prospect of contributing to innovative solutions in the field of Python programming.
 
-Feel free to connect with me on [LinkedIn](<www.linkedin.com/in/parshv-modi>) and explore the GitHub repositories for a detailed look into each task. Your feedback is highly valued!
+Feel free to connect with me on [LinkedIn](<https://www.linkedin.com/in/parshv-modi>) and explore the GitHub repositories for a detailed look into each task. Your feedback is highly valued!
 
 If you find these Python projects intriguing or beneficial, please consider giving the repository a star. Your support is greatly appreciated!
