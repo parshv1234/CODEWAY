@@ -44,7 +44,7 @@ To learn more about Codeway Solutions, visit [Codeway Solutions](https://www.cod
 
 ## Conclusion
 
-My internship with Codeway Solutions has been a transformative experience, allowing me to apply and enhance my Python programming skills on real-world projects. The completion of these tasks has equipped me with valuable insights into data analysis, web scraping, and task automation using Python.
+My internship with Codeway Solutions has been a transformative experience, allowing me to apply and enhance my Python programming skills on real-world projects. The completion of these tasks has equipped me with valuable insights into using Python.
 
 I am grateful for the guidance and support provided by the Codeway Solutions team throughout this internship. The opportunity to contribute to meaningful projects has been both challenging and rewarding. I am enthusiastic about leveraging these skills in future endeavors.
 
