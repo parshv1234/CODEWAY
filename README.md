@@ -1,6 +1,6 @@
 # Codeway Solutions Internship - Python Programming Internship Tasks
 
-Welcome to the CSPIPP (Codeway Solutions Python Internship Projects) repository! This public repository showcases the successful completion of three tasks assigned to me during my internship with Codeway Solutions as a Python Programming Intern from January 17, 2024, to February 17, 2024. I am excited to share my journey and accomplishments, demonstrating my skills and growth in Python programming.
+Welcome to the `CSPIPP` (Codeway Solutions Python Internship Projects) repository! This public repository showcases the successful completion of three tasks assigned to me during my internship with Codeway Solutions as a Python Programming Intern from January 17, 2024, to February 17, 2024. I am excited to share my journey and accomplishments, demonstrating my skills and growth in Python programming.
 
 ## Table of Contents
 
@@ -32,14 +32,14 @@ To learn more about Codeway Solutions, visit [Codeway Solutions](https://www.cod
 
 - Project: **PASSWORD GENERATOR**
 - Description: A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python ,allowing users to specify the length and complexity of the password.
-- Libraries used: 'string', 'random' and 'array'
+- Libraries used: `string`, `random` and `array`
 - Repository: Access the GitHub repository for this project [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task3>).
 
 ## TASK 5
 
 - Project: **QUIZ GAME**
 - Description: Develop a quiz game that asks users multiple-choice or fill-in-the-blank questions on aspecific topic. The game should keep track of scores, provide feedback oncorrect/incorrect answers, and offer a variety of questions to make it challenging andengaging.
-- Libraries used: 'random'
+- Libraries used: `random`
 - Repository: Find the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task5>).
 
 ## Conclusion
