@@ -1,0 +1,19 @@
+1. if operation in operations:: This line checks if the entered operation (+, -, *, /, //) is present in the operations dictionary. The operations dictionary contains keys for each operation, and each key is associated with a lambda function that performs the corresponding operation.
+
+2. result = operations[operation](n1, n2): If the entered operation is valid (present in the operations dictionary), it retrieves the corresponding lambda function and applies it to the provided numbers (n1 and n2). This line effectively performs the calculation based on the selected operation.
+
+3. print(f"{n1} {operation} {n2} = {result}"): After the calculation, it prints a formatted string showing the operation and the result of the calculation.
+
+
+lambda function 
+
+A lambda function is a small anonymous function.
+
+A lambda function can take any number of arguments, but can only have one expression.
+
+Syntax
+lambda arguments : expression
+The expression is executed and the result is returned:
+
+if y != 0 else None
+This is as nothing can be divided by zero.
