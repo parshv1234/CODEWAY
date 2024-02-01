@@ -1,6 +1,6 @@
 # Codeway Solutions Internship - Python Programming Internship Tasks
 
-Welcome to the CSPIPP (Codeway Solutions Python Internship Projects) repository! This public repository showcases the successful completion of three tasks assigned to me during my internship with Codeway Solutions as a Python Programming Intern from January 1, 2024, to February 5, 2024. I am excited to share my journey and accomplishments, demonstrating my skills and growth in Python programming.
+Welcome to the CSPIPP (Codeway Solutions Python Internship Projects) repository! This public repository showcases the successful completion of three tasks assigned to me during my internship with Codeway Solutions as a Python Programming Intern from January 17, 2024, to February 17, 2024. I am excited to share my journey and accomplishments, demonstrating my skills and growth in Python programming.
 
 ## Table of Contents
 
