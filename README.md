@@ -21,21 +21,21 @@ To learn more about Codeway Solutions, visit [Codeway Solutions](https://www.cod
 - LinkedIn: [@CodewaySolutions](https://www.linkedin.com/company/codeway-solutions/)
 - Telegram: [@CodewayTech](https://t.me/+NUj4JXTcTxwxODA9)
   
-## TASK 1
+## TASK 2
 
 - Project: **CALCULATOR**
 - Description: Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
 - Libraries used: No libraries used.
 - Repository: Explore the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task2>).
 
-## TASK 2
+## TASK 3
 
 - Project: **PASSWORD GENERATOR**
 - Description: A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python ,allowing users to specify the length and complexity of the password.
 - Libraries used: string, random and array
 - Repository: Access the GitHub repository for this project [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task3>).
 
-## TASK 3
+## TASK 5
 
 - Project: **QUIZ GAME**
 - Description: Develop a quiz game that asks users multiple-choice or fill-in-the-blank questions on aspecific topic. The game should keep track of scores, provide feedback oncorrect/incorrect answers, and offer a variety of questions to make it challenging andengaging.
