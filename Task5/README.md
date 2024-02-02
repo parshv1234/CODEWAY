@@ -61,11 +61,6 @@ The Quiz Game is a Python script that simulates a multiple-choice quiz. It consi
 
 - **APIs:** The script relies on standard Python libraries and does not require external APIs.
 
-### Suggestions for Improvement
-- Expansion of question bank for more variety.
-- Inclusion of a timer for each question.
-- Implementation of difficulty levels.
-
 ### License
 This script is open-source and available under the [MIT License](LICENSE.md).
 
