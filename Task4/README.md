@@ -1,7 +1,7 @@
 ## Weather Information App
 
 ### Overview
-The Weather Information App is a Python script that retrieves current weather information for a specified city using the OpenWeatherMap API. Users are prompted to enter a city name, and the script provides details such as temperature, weather description, humidity, and wind speed.
+The `Weather Information App` is a Python script that retrieves current weather information for a specified city using the OpenWeatherMap API. Users are prompted to enter a city name, and the script provides details such as temperature, weather description, humidity, and wind speed.
 
 ### Features
 1. **OpenWeatherMap API Integration:** The script uses the OpenWeatherMap API to fetch real-time weather data for the specified city.
@@ -36,11 +36,6 @@ The Weather Information App is a Python script that retrieves current weather in
 - **IDE:** The code was developed using a Python-friendly Integrated Development Environment (IDE), such as Visual Studio Code, PyCharm, or Jupyter Notebook.
 
 - **APIs:** The script relies on the OpenWeatherMap API to retrieve current weather data.
-
-### Suggestions for Improvement
-- Implementation of error handling for invalid city names or API key issues.
-- Addition of more detailed weather information.
-- Inclusion of graphical representation of weather data.
 
 ### License
 This script is open-source and available under the [MIT License](LICENSE.md).
