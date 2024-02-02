@@ -26,12 +26,6 @@ The To-Do List Management System is a Python script that enables users to manage
 
 - **APIs:** The script uses the MySQL Connector library to interact with the MySQL database.
 
-### Suggestions for Improvement
-- **Enhanced Error Handling:** Implement robust error handling for database operations and user input.
-- **Security Considerations:** Explore ways to enhance security, such as parameterized queries to prevent SQL injection.
-- **Task Priority:** Add a priority level to tasks for better organization.
-- **Task Categories:** Implement task categories or tags for further classification.
-
 ### How to Use
 1. **MySQL Database Setup:**
    - Ensure you have a MySQL server running and create a database named "todolist."
