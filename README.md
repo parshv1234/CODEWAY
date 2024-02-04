@@ -5,8 +5,10 @@ Welcome to the `CSPIPP` (Codeway Solutions Python Internship Projects) repositor
 ## Table of Contents
 
 - [About Codeway Solutions](#about-codeway-solutions)
+- [TASK 1](#task-1)
 - [TASK 2](#task-2)
 - [TASK 3](#task-3)
+- [TASK 4](#task-4)
 - [TASK 5](#task-5)
 - [Conclusion](#conclusion)
 
@@ -20,27 +22,48 @@ To learn more about Codeway Solutions, visit [Codeway Solutions](https://www.cod
 - Email: [info@codewaysolutions.com](mailto:contact@codeway.cloud)
 - LinkedIn: [@CodewaySolutions](https://www.linkedin.com/company/codeway-solutions/)
 - Telegram: [@CodewayTech](https://t.me/+NUj4JXTcTxwxODA9)
+
+## TASK 1
+
+- Project: **TO-DO LIST**
+- Description: A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command- 
+  line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+- Libraries used: `MySQL Connector`
+- Repository: Explore the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/main/Task1>).
   
 ## TASK 2
 
 - Project: **CALCULATOR**
-- Description: Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation and display the result.
+- Description: Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice. Perform the calculation 
+  and display the result.
 - Libraries used: No libraries used.
-- Repository: Explore the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task2>).
+- Repository: Explore the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/main/Task2>).
 
 ## TASK 3
 
 - Project: **PASSWORD GENERATOR**
-- Description: A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python ,allowing users to specify the length and complexity of the password.
+- Description: A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator 
+  application using Python ,allowing users to specify the length and complexity of the password.
 - Libraries used: `string`, `random` and `array`
-- Repository: Access the GitHub repository for this project [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task3>).
+- Repository: Access the GitHub repository for this project [here](<https://github.com/parshv1234/CODEWAY/tree/main/Task3>).
 
+## TASK 4
+
+- Project: **WEATHER FORECAST**
+- Description: Developing a weather forecast application using Python. This project will involve retrieving weather data from an API and presenting it in a user- 
+  friendly format. Theapplication will provide current weather information, including temperature, humidity,wind speed, and a short description of the weather 
+  conditions.
+- Libraries used: `requests`,`os`,`datetime`
+- API used: `OpenWeatherMap`
+- Repository: Explore the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/main/Task4>).
+  
 ## TASK 5
 
 - Project: **QUIZ GAME**
-- Description: Develop a quiz game that asks users multiple-choice or fill-in-the-blank questions on aspecific topic. The game should keep track of scores, provide feedback oncorrect/incorrect answers, and offer a variety of questions to make it challenging andengaging.
+- Description: Develop a quiz game that asks users multiple-choice or fill-in-the-blank questions on aspecific topic. The game should keep track of scores, provide 
+  feedback oncorrect/incorrect answers, and offer a variety of questions to make it challenging andengaging.
 - Libraries used: `random`
-- Repository: Find the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/85e2a0d8e081b886dbf3e1eb5aafe54e9995258f/Task5>).
+- Repository: Find the project's GitHub repository [here](<https://github.com/parshv1234/CODEWAY/tree/main/Task5>).
 
 ## Conclusion
 
